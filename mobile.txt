@@ -1,0 +1,19 @@
+https://mobile-security.gitbook.io/mobile-security-testing-guide/
+
+
+###finding ios uuid
+https://www.iclarified.com/52179/how-to-find-your-iphones-udid
+
+###sec innovation ios pt guide
+https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf
+
+### for injection related
+https://sqlwiki.netspi.com/
+
+
+### andro ios crack me's
+https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/
+
+### frida
+https://www.briskinfosec.com/blogs/blogsdetail/Getting-Started-with-Frida
+
